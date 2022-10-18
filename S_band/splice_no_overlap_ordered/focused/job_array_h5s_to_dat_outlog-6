@@ -1,0 +1,49 @@
+Starting job h52dat_S-6
+Tue Mar  8 14:16:20 EST 2022
+Job id: 35074157[6].torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/focused
+ 
+Analyzing .h5 files for hits...
+ 
+numexpr.utils   INFO     Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+
+Executing program...
+
+	You forgot to make a h5_files.lst file. Oops. No biggie though...
+	Continuing on...
+
+
+Please wait ... 2022-03-08 14:16:38.212036
+
+Working on file number 6 in the list...
+
+Getting max drift rate based on target coordinates...
+
+h5 filesize is 25.86 GB
+Barycentric drift rate (pre factor) is 0.16
+Using a drift rate range between 0.12 and 0.19.
+
+Calling FindDoppler at 2022-03-08 14:17:25.492373
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 3151.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'OFF_HD13908', 'src_dej': <Angle 65.5929 deg>, 'src_raj': <Angle 2.30415333 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.207083333335, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/focused/spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5, max_drift=0.1869432384697369, min_drift=0.12462882564649128, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/focused/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 1.63 hours.
+
+
+
+Total time to execute info.py: 1.65 hours.
+
+ 
+Tue Mar  8 15:55:40 EST 2022
+ 
+Game over. Thanks for playing.

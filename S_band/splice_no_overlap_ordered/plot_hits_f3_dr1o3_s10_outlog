@@ -1,0 +1,31 @@
+Starting job plot_L
+Sat Nov 27 09:36:03 EST 2021
+Job id: 32130897.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered
+ 
+Executing generic script...
+ 
+Sat Nov 27 09:36:06 EST 2021
+ 
+
+Executing program...
+
+Running plot_event_pipeline...
+plot_event_pipeline: Opened file ON_S_f3_snr10.0.csv
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.fil, tstart = 59524.18732638889, source_name = ON_S
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.fil, tstart = 59524.191296296296, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.fil, tstart = 59524.1953125, source_name = ON_S
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.fil, tstart = 59524.19924768519, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.fil, tstart = 59524.2031712963, source_name = ON_S
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.fil, tstart = 59524.207083333335, source_name = OFF_HD13908
+Plotting some events for:  ON_S
+There are 6 total events in the csv file ON_S_f3_snr10.0.csv
+therefore, you are about to make 6 .png files.
+
+Total time to execute this program: 15.52 seconds.
+
+ 
+Sat Nov 27 09:36:32 EST 2021
+ 
+Game over. Thanks for playing.

@@ -1,0 +1,355 @@
+Starting job splice_576_S
+Thu Nov 25 18:32:08 EST 2021
+Job id: 32108319.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/S_band
+ 
+Splicing together filterbank files...
+ 
+
+Executing info.py program...
+
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/unspliced_info/drift_rates.txt has been detected and purged to make way for the new list of drift rates.
+
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/unspliced_info/info.txt has been detected and purged to make way for the new header info file.
+
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/unspliced_info/franges.txt has been detected and purged to make way for the new list of frequency ranges.
+
+Please wait ...
+
+Working on file 1: blc00_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.181 Hz/s at 3151.465 MHz
+
+
+Working on file 2: blc01_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.170 Hz/s at 2963.965 MHz
+
+
+Working on file 3: blc02_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.159 Hz/s at 2776.465 MHz
+
+
+Working on file 4: blc03_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.148 Hz/s at 2588.965 MHz
+
+
+Working on file 5: blc04_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.138 Hz/s at 2401.465 MHz
+
+
+Working on file 6: blc05_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.127 Hz/s at 2213.965 MHz
+
+
+Working on file 7: blc06_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.116 Hz/s at 2026.465 MHz
+
+
+Working on file 8: blc07_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.105 Hz/s at 1838.965 MHz
+
+
+Working on file 9: blc00_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.156 Hz/s at 3151.465 MHz
+
+
+Working on file 10: blc01_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.147 Hz/s at 2963.965 MHz
+
+
+Working on file 11: blc02_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.138 Hz/s at 2776.465 MHz
+
+
+Working on file 12: blc03_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.128 Hz/s at 2588.965 MHz
+
+
+Working on file 13: blc04_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.119 Hz/s at 2401.465 MHz
+
+
+Working on file 14: blc05_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.110 Hz/s at 2213.965 MHz
+
+
+Working on file 15: blc06_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.100 Hz/s at 2026.465 MHz
+
+
+Working on file 16: blc07_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.091 Hz/s at 1838.965 MHz
+
+
+Working on file 17: blc00_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.181 Hz/s at 3151.465 MHz
+
+
+Working on file 18: blc01_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.170 Hz/s at 2963.965 MHz
+
+
+Working on file 19: blc02_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.159 Hz/s at 2776.465 MHz
+
+
+Working on file 20: blc03_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.149 Hz/s at 2588.965 MHz
+
+
+Working on file 21: blc04_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.138 Hz/s at 2401.465 MHz
+
+
+Working on file 22: blc05_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.127 Hz/s at 2213.965 MHz
+
+
+Working on file 23: blc06_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.116 Hz/s at 2026.465 MHz
+
+
+Working on file 24: blc07_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.106 Hz/s at 1838.965 MHz
+
+
+Working on file 25: blc00_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.156 Hz/s at 3151.465 MHz
+
+
+Working on file 26: blc01_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.147 Hz/s at 2963.965 MHz
+
+
+Working on file 27: blc02_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.138 Hz/s at 2776.465 MHz
+
+
+Working on file 28: blc03_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.128 Hz/s at 2588.965 MHz
+
+
+Working on file 29: blc04_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.119 Hz/s at 2401.465 MHz
+
+
+Working on file 30: blc05_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.110 Hz/s at 2213.965 MHz
+
+
+Working on file 31: blc06_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.100 Hz/s at 2026.465 MHz
+
+
+Working on file 32: blc07_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.091 Hz/s at 1838.965 MHz
+
+
+Working on file 33: blc00_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.181 Hz/s at 3151.465 MHz
+
+
+Working on file 34: blc01_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.170 Hz/s at 2963.965 MHz
+
+
+Working on file 35: blc02_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.159 Hz/s at 2776.465 MHz
+
+
+Working on file 36: blc03_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.149 Hz/s at 2588.965 MHz
+
+
+Working on file 37: blc04_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.138 Hz/s at 2401.465 MHz
+
+
+Working on file 38: blc05_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.127 Hz/s at 2213.965 MHz
+
+
+Working on file 39: blc06_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.116 Hz/s at 2026.465 MHz
+
+
+Working on file 40: blc07_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.106 Hz/s at 1838.965 MHz
+
+
+Working on file 41: blc00_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.156 Hz/s at 3151.465 MHz
+
+
+Working on file 42: blc01_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.147 Hz/s at 2963.965 MHz
+
+
+Working on file 43: blc02_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.137 Hz/s at 2776.465 MHz
+
+
+Working on file 44: blc03_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.128 Hz/s at 2588.965 MHz
+
+
+Working on file 45: blc04_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.119 Hz/s at 2401.465 MHz
+
+
+Working on file 46: blc05_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.109 Hz/s at 2213.965 MHz
+
+
+Working on file 47: blc06_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.100 Hz/s at 2026.465 MHz
+
+
+Working on file 48: blc07_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Barycentric Drift Rate: 0.091 Hz/s at 1838.965 MHz
+
+
+
+3 new text files created:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/unspliced_info/info.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/unspliced_info/franges.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/unspliced_info/drift_rates.txt
+
+0 files were skipped out of 48 total in the file list.
+
+
+Total time to execute info.py: 21.18 minutes.
+
+ 
+Thu Nov 25 18:53:34 EST 2021
+ 
+ 
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+
+Creating new list of frequency ranges ordered by frequency.
+
+Working on files with 161?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.fil
+Working on files with 165?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.fil
+Working on files with 168?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.fil
+Working on files with 172?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.fil
+Working on files with 175?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.fil
+Working on files with 178?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.fil
+
+
+1 new text file created: /gpfs/group/jtw13/default/gbt_2020/2021/S_band//splice_no_overlap_ordered/info/fordered_no_overlap.txt
+
+
+Total time to execute all splices: 4.02 minutes.
+
+ 
+Thu Nov 25 18:57:40 EST 2021
+ 
+
+Executing info.py program...
+
+Please wait ...
+
+Working on file 1: spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.fil
+
+Barycentric Drift Rate: 0.181 Hz/s at 3151.465 MHz
+
+
+Working on file 2: spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.fil
+
+Barycentric Drift Rate: 0.156 Hz/s at 3151.465 MHz
+
+
+Working on file 3: spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.fil
+
+Barycentric Drift Rate: 0.181 Hz/s at 3151.465 MHz
+
+
+Working on file 4: spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.fil
+
+Barycentric Drift Rate: 0.156 Hz/s at 3151.465 MHz
+
+
+Working on file 5: spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.fil
+
+Barycentric Drift Rate: 0.181 Hz/s at 3151.465 MHz
+
+
+Working on file 6: spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.fil
+
+Barycentric Drift Rate: 0.156 Hz/s at 3151.465 MHz
+
+
+
+3 new text files created:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/info/info.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/info/franges.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/info/drift_rates.txt
+
+0 files were skipped out of 6 total in the file list.
+
+
+Total time to execute info.py: 5.59 minutes.
+
+ 
+Thu Nov 25 19:03:19 EST 2021
+ 
+Game over. Thanks for playing.

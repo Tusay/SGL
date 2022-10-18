@@ -1,0 +1,80 @@
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 3151.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'OFF_HD13908', 'src_dej': <Angle 65.5935 deg>, 'src_raj': <Angle 2.30407333 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.191296296296, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/focused/spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5, max_drift=0.18754003316262924, min_drift=0.12502668877508616, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/focused/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+Top hit found! SNR 24.430420, Drift Rate -0.172197, index 456986
+Top hit found! SNR 13.941583, Drift Rate -0.133931, index 523105
+Top hit found! SNR 13.941586, Drift Rate 0.133931, index 525471
+Top hit found! SNR 24.430420, Drift Rate 0.172197, index 591590
+Top hit found! SNR 195.896713, Drift Rate 0.153064, index 524294
+Top hit found! SNR 77.040527, Drift Rate -0.133931, index 524280
+Top hit found! SNR 72.444176, Drift Rate -0.181763, index 524281
+Top hit found! SNR 68.988235, Drift Rate 0.181763, index 524295
+Top hit found! SNR 55.197353, Drift Rate 0.162630, index 524294
+Top hit found! SNR 31.725140, Drift Rate -0.181763, index 524281
+Top hit found! SNR 29.539148, Drift Rate -0.143497, index 524281
+Top hit found! SNR 30.083858, Drift Rate -0.162630, index 524282
+Top hit found! SNR 26.143982, Drift Rate 0.181763, index 524295
+Top hit found! SNR 25.420626, Drift Rate -0.162630, index 524280
+Top hit found! SNR 24.302202, Drift Rate 0.181763, index 524295
+Top hit found! SNR 25.020384, Drift Rate -0.143497, index 524282
+Top hit found! SNR 24.434731, Drift Rate 0.153064, index 524294
+Top hit found! SNR 24.076654, Drift Rate -0.133931, index 524282
+Top hit found! SNR 24.315550, Drift Rate 0.162630, index 524295
+Top hit found! SNR 24.021555, Drift Rate -0.162630, index 524280
+Top hit found! SNR 191.872253, Drift Rate 0.153064, index 156421
+Top hit found! SNR 25.137964, Drift Rate -0.143497, index 524282
+Top hit found! SNR 25.608339, Drift Rate 0.133931, index 524296
+Top hit found! SNR 26.612127, Drift Rate 0.172197, index 524295
+Top hit found! SNR 27.873224, Drift Rate -0.143497, index 524282
+Top hit found! SNR 25.055138, Drift Rate -0.172197, index 524279
+Top hit found! SNR 25.276064, Drift Rate -0.133931, index 524282
+Top hit found! SNR 25.506668, Drift Rate 0.162630, index 524296
+Top hit found! SNR 25.402882, Drift Rate -0.172197, index 524279
+Top hit found! SNR 20.720428, Drift Rate 0.172197, index 874891
+Top hit found! SNR 25.057226, Drift Rate -0.133931, index 524281
+Top hit found! SNR 25.617029, Drift Rate -0.162630, index 524282
+Top hit found! SNR 25.983643, Drift Rate 0.133931, index 524294
+Top hit found! SNR 25.691332, Drift Rate 0.181763, index 228817
+Top hit found! SNR 44.229527, Drift Rate 0.181763, index 1024153
+Top hit found! SNR 13.419271, Drift Rate -0.133931, index 512260
+Top hit found! SNR 10.443620, Drift Rate -0.181763, index 512630
+Top hit found! SNR 221.357803, Drift Rate 0.181763, index 533036
+Top hit found! SNR 52.309013, Drift Rate 0.181763, index 534748
+Top hit found! SNR 11.265635, Drift Rate -0.181763, index 536024
+Top hit found! SNR 11.503009, Drift Rate 0.181763, index 536059
+Top hit found! SNR 173.978882, Drift Rate -0.172197, index 536230
+Top hit found! SNR 11.504945, Drift Rate -0.133931, index 44415
+Top hit found! SNR 17.671425, Drift Rate 0.181763, index 46494
+Top hit found! SNR 32.274967, Drift Rate -0.181763, index 47190
+Top hit found! SNR 34.462116, Drift Rate 0.162630, index 48552
+Top hit found! SNR 14.034859, Drift Rate -0.143497, index 470966
+Top hit found! SNR 104.972374, Drift Rate 0.181763, index 268652
+Top hit found! SNR 32.734531, Drift Rate 0.153064, index 278171
+Top hit found! SNR 31.525496, Drift Rate 0.162630, index 278232
+Top hit found! SNR 36.928211, Drift Rate 0.162630, index 278282
+Top hit found! SNR 34.085609, Drift Rate -0.181763, index 796832
+Top hit found! SNR 49.344692, Drift Rate -0.172197, index 796888
+Top hit found! SNR 11.603470, Drift Rate -0.172197, index 796922
+Top hit found! SNR 13.176551, Drift Rate -0.133931, index 797112
+Top hit found! SNR 10.728692, Drift Rate -0.172197, index 810247
+Top hit found! SNR 12.136036, Drift Rate -0.172197, index 353718
+Top hit found! SNR 10.910110, Drift Rate 0.172197, index 381462
+Top hit found! SNR 10.806496, Drift Rate 0.172197, index 622621
+Top hit found! SNR 11.198783, Drift Rate -0.133931, index 395113
+Top hit found! SNR 17.395523, Drift Rate -0.172197, index 891736
+Top hit found! SNR 62.354160, Drift Rate 0.133931, index 168363
+Top hit found! SNR 65.042564, Drift Rate -0.162630, index 170209
+Top hit found! SNR 32.907825, Drift Rate 0.153064, index 170718
+Top hit found! SNR 19.786226, Drift Rate -0.181763, index 172621
+Top hit found! SNR 38.370491, Drift Rate -0.162630, index 181014
+
+===== Search time: 69.88 minutes
+===== END OF LOG

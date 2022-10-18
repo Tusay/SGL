@@ -1,0 +1,25 @@
+#!/bin/bash
+#PBS -A open
+#PBS -l nodes=1:ppn=1:stmem
+#PBS -l pmem=50gb
+#PBS -l walltime=48:00:00
+#PBS -j oe
+#PBS -M nxt5197@psu.edu
+#PBS -N h5s2dats_S
+#PBS -o h5s_to_dats_outlog
+
+echo "Starting job $PBS_JOBNAME"
+date
+echo "Job id: $PBS_JOBID"
+echo " "
+echo "Changing into $PBS_O_WORKDIR"
+cd $PBS_O_WORKDIR
+echo " "
+echo "Analyzing .h5 files for hits..."
+source /storage/home/nxt5197/work/environments/tSETI/setup
+echo " "
+python3 /storage/home/nxt5197/work/PSU_turboSETI/scripts/make_dats.py -max 10 -s1 10.0
+echo " "
+date
+echo " "
+echo "Game over. Thanks for playing."

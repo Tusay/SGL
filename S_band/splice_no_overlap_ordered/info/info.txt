@@ -1,0 +1,180 @@
+
+
+<--------------------------------------------------->
+File 1:  spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.fil
+
+--- File Info ---
+      machine_id :                               20
+    telescope_id :                                6
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+          nchans :                        536870912
+     source_name :                             ON_S
+         src_raj :                       2:39:23.04
+         src_dej :                      60:52:06.96
+        az_start :                              0.0
+        za_start :                              0.0
+           nbits :                               32
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+           tsamp :               18.253611007999982
+            nifs :                                1
+
+Num ints in file :                               16
+      File shape :               (16, 1, 536870912)
+--- Selection Info ---
+Data selection shape :               (16, 1, 536870912)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 2:  spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.fil
+
+--- File Info ---
+      machine_id :                               20
+    telescope_id :                                6
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+          nchans :                        536870912
+     source_name :                      OFF_HD13908
+         src_raj :                      2:18:14.664
+         src_dej :                       65:35:36.6
+        az_start :                              0.0
+        za_start :                              0.0
+           nbits :                               32
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+           tsamp :               18.253611007999982
+            nifs :                                1
+
+Num ints in file :                               16
+      File shape :               (16, 1, 536870912)
+--- Selection Info ---
+Data selection shape :               (16, 1, 536870912)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 3:  spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.fil
+
+--- File Info ---
+      machine_id :                               20
+    telescope_id :                                6
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+          nchans :                        536870912
+     source_name :                             ON_S
+         src_raj :                      2:39:22.896
+         src_dej :                      60:52:06.96
+        az_start :                              0.0
+        za_start :                              0.0
+           nbits :                               32
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+           tsamp :               18.253611007999982
+            nifs :                                1
+
+Num ints in file :                               16
+      File shape :               (16, 1, 536870912)
+--- Selection Info ---
+Data selection shape :               (16, 1, 536870912)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 4:  spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.fil
+
+--- File Info ---
+      machine_id :                               20
+    telescope_id :                                6
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+          nchans :                        536870912
+     source_name :                      OFF_HD13908
+         src_raj :                      2:18:14.496
+         src_dej :                      65:35:36.96
+        az_start :                              0.0
+        za_start :                              0.0
+           nbits :                               32
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+           tsamp :               18.253611007999982
+            nifs :                                1
+
+Num ints in file :                               16
+      File shape :               (16, 1, 536870912)
+--- Selection Info ---
+Data selection shape :               (16, 1, 536870912)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 5:  spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.fil
+
+--- File Info ---
+      machine_id :                               20
+    telescope_id :                                6
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+          nchans :                        536870912
+     source_name :                             ON_S
+         src_raj :                       2:39:22.92
+         src_dej :                      60:52:06.96
+        az_start :                              0.0
+        za_start :                              0.0
+           nbits :                               32
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+           tsamp :               18.253611007999982
+            nifs :                                1
+
+Num ints in file :                               16
+      File shape :               (16, 1, 536870912)
+--- Selection Info ---
+Data selection shape :               (16, 1, 536870912)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 6:  spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.fil
+
+--- File Info ---
+      machine_id :                               20
+    telescope_id :                                6
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+          nchans :                        536870912
+     source_name :                      OFF_HD13908
+         src_raj :                      2:18:14.952
+         src_dej :                      65:35:34.44
+        az_start :                              0.0
+        za_start :                              0.0
+           nbits :                               32
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+           tsamp :               18.253611007999982
+            nifs :                                1
+
+Num ints in file :                               16
+      File shape :               (16, 1, 536870912)
+--- Selection Info ---
+Data selection shape :               (16, 1, 536870912)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->

@@ -1,0 +1,6 @@
+Barycentric Drift Rate: 0.18 Hz/s at 3151.465 MHz
+Barycentric Drift Rate: 0.16 Hz/s at 3151.465 MHz
+Barycentric Drift Rate: 0.18 Hz/s at 3151.465 MHz
+Barycentric Drift Rate: 0.16 Hz/s at 3151.465 MHz
+Barycentric Drift Rate: 0.18 Hz/s at 3151.465 MHz
+Barycentric Drift Rate: 0.16 Hz/s at 3151.465 MHz

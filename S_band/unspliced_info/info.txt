@@ -1,0 +1,1632 @@
+
+
+<--------------------------------------------------->
+File 1:  blc00_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:04.44
+         src_raj :                      2:39:22.848
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2963.9648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 2:  blc01_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2963.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:04.44
+         src_raj :                      2:39:22.848
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2776.4648465439677
+Maximum freq (MHz) :                    2963.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 3:  blc02_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2776.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:04.44
+         src_raj :                      2:39:22.848
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2588.9648465439677
+Maximum freq (MHz) :                    2776.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 4:  blc03_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2588.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:04.44
+         src_raj :                      2:39:22.848
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2401.4648465439677
+Maximum freq (MHz) :                    2588.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 5:  blc04_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2401.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                       2:39:23.04
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2213.9648465439677
+Maximum freq (MHz) :                    2401.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 6:  blc05_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2213.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:04.44
+         src_raj :                      2:39:22.848
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2026.4648465439677
+Maximum freq (MHz) :                    2213.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 7:  blc06_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2026.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:04.44
+         src_raj :                      2:39:22.848
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1838.9648465439677
+Maximum freq (MHz) :                    2026.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 8:  blc07_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                1838.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16185_ON_S_0030.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                       2:39:23.04
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:29:45.000
+    tstart (MJD) :                59524.18732638889
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    1838.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 9:  blc00_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2963.9648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 10:  blc01_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2963.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2776.4648465439677
+Maximum freq (MHz) :                    2963.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 11:  blc02_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2776.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2588.9648465439677
+Maximum freq (MHz) :                    2776.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 12:  blc03_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2588.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2401.4648465439677
+Maximum freq (MHz) :                    2588.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 13:  blc04_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2401.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2213.9648465439677
+Maximum freq (MHz) :                    2401.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 14:  blc05_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2213.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2026.4648465439677
+Maximum freq (MHz) :                    2213.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 15:  blc06_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2026.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1838.9648465439677
+Maximum freq (MHz) :                    2026.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 16:  blc07_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                1838.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16528_OFF_HD13908_0031.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.664
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:35:28.000
+    tstart (MJD) :               59524.191296296296
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    1838.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 17:  blc00_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:08.76
+         src_raj :                      2:39:23.088
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2963.9648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 18:  blc01_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2963.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                      2:39:22.896
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2776.4648465439677
+Maximum freq (MHz) :                    2963.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 19:  blc02_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2776.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                      2:39:22.896
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2588.9648465439677
+Maximum freq (MHz) :                    2776.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 20:  blc03_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2588.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                      2:39:22.896
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2401.4648465439677
+Maximum freq (MHz) :                    2588.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 21:  blc04_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2401.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                      2:39:22.896
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2213.9648465439677
+Maximum freq (MHz) :                    2401.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 22:  blc05_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2213.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:08.76
+         src_raj :                      2:39:23.088
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2026.4648465439677
+Maximum freq (MHz) :                    2213.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 23:  blc06_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2026.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:08.76
+         src_raj :                      2:39:23.088
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1838.9648465439677
+Maximum freq (MHz) :                    2026.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 24:  blc07_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                1838.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_16875_ON_S_0032.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                      2:39:22.896
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:41:15.000
+    tstart (MJD) :                    59524.1953125
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    1838.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 25:  blc00_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2963.9648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 26:  blc01_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2963.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2776.4648465439677
+Maximum freq (MHz) :                    2963.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 27:  blc02_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2776.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2588.9648465439677
+Maximum freq (MHz) :                    2776.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 28:  blc03_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2588.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2401.4648465439677
+Maximum freq (MHz) :                    2588.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 29:  blc04_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2401.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2213.9648465439677
+Maximum freq (MHz) :                    2401.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 30:  blc05_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2213.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2026.4648465439677
+Maximum freq (MHz) :                    2213.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 31:  blc06_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2026.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1838.9648465439677
+Maximum freq (MHz) :                    2026.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 32:  blc07_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                1838.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17215_OFF_HD13908_0033.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:36.96
+         src_raj :                      2:18:14.496
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:46:55.000
+    tstart (MJD) :                59524.19924768519
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    1838.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 33:  blc00_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2963.9648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 34:  blc01_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2963.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:07.68
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2776.4648465439677
+Maximum freq (MHz) :                    2963.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 35:  blc02_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2776.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:07.68
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2588.9648465439677
+Maximum freq (MHz) :                    2776.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 36:  blc03_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2588.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2401.4648465439677
+Maximum freq (MHz) :                    2588.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 37:  blc04_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2401.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2213.9648465439677
+Maximum freq (MHz) :                    2401.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 38:  blc05_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2213.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2026.4648465439677
+Maximum freq (MHz) :                    2213.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 39:  blc06_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2026.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:07.68
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1838.9648465439677
+Maximum freq (MHz) :                    2026.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 40:  blc07_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                1838.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17554_ON_S_0034.0000.raw
+     source_name :                             ON_S
+         src_dej :                      60:52:06.96
+         src_raj :                       2:39:22.92
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:52:34.000
+    tstart (MJD) :                 59524.2031712963
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    1838.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 41:  blc00_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                3151.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:34.44
+         src_raj :                      2:18:14.952
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2963.9648465439677
+Maximum freq (MHz) :                    3151.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 42:  blc01_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2963.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:34.44
+         src_raj :                      2:18:14.952
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2776.4648465439677
+Maximum freq (MHz) :                    2963.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 43:  blc02_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2776.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.832
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2588.9648465439677
+Maximum freq (MHz) :                    2776.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 44:  blc03_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2588.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.832
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2401.4648465439677
+Maximum freq (MHz) :                    2588.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 45:  blc04_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2401.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:34.44
+         src_raj :                      2:18:14.952
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2213.9648465439677
+Maximum freq (MHz) :                    2401.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 46:  blc05_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2213.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                       65:35:36.6
+         src_raj :                      2:18:14.832
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               2026.4648465439677
+Maximum freq (MHz) :                    2213.96484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 47:  blc06_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                2026.46484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:34.44
+         src_raj :                      2:18:14.952
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1838.9648465439677
+Maximum freq (MHz) :                    2026.46484375
+<--------------------------------------------------->
+
+
+<--------------------------------------------------->
+File 48:  blc07_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+--- File Info ---
+DIMENSION_LABELS :   ['time' 'feed_id' 'frequency']
+        az_start :                              0.0
+       data_type :                                1
+            fch1 :                1838.96484375 MHz
+            foff :      -2.7939677238464355e-06 MHz
+           ibeam :                               -1
+      machine_id :                               20
+          nbeams :                                1
+           nbits :                               32
+          nchans :                         67108864
+            nifs :                                1
+     rawdatafile : guppi_59524_17892_OFF_HD13908_0035.0000.raw
+     source_name :                      OFF_HD13908
+         src_dej :                      65:35:34.44
+         src_raj :                      2:18:14.952
+    telescope_id :                                6
+           tsamp :               18.253611007999982
+   tstart (ISOT) :          2021-11-06T04:58:12.000
+    tstart (MJD) :               59524.207083333335
+        za_start :                              0.0
+
+Num ints in file :                               16
+      File shape :                (16, 1, 67108864)
+--- Selection Info ---
+Data selection shape :                (16, 1, 67108864)
+Minimum freq (MHz) :               1651.4648465439677
+Maximum freq (MHz) :                    1838.96484375
+<--------------------------------------------------->

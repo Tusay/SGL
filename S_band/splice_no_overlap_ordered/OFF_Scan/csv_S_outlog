@@ -1,0 +1,151 @@
+Starting job csv_576_S
+Thu Jan 20 17:32:37 EST 2022
+Job id: 34127041.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan
+ 
+Building csvs from hits in dats...
+ 
+numexpr.utils   INFO     Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+
+Executing program...
+
+Running find event pipeline...
+
+************   BEGINNING FIND_EVENT PIPELINE   **************
+
+Assuming a complex cadence for the following on source: OFF_HD13908
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.dat, tstart=59524.18732638889, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat, tstart=59524.191296296296, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.dat, tstart=59524.1953125, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.dat, tstart=59524.19924768519, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.dat, tstart=59524.2031712963, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.dat, tstart=59524.207083333335, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+The derived complex cadence is: [0, 1, 0, 1, 0, 1]
+There are 6 total files in the filelist /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/dat_files.lst
+therefore, looking for events in 1 on-off set(s)
+with a minimum SNR of 10.0
+Present in an ON source only, above SNR_cut
+not including signals with zero drift
+saving the output files
+
+*** First DAT file in set:  spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat ***
+
+------   o   -------
+Loading data...
+Loaded 755 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.dat (OFF)
+Loaded 765 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat (ON)
+Loaded 758 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.dat (OFF)
+Loaded 757 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.dat (ON)
+Loaded 793 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.dat (OFF)
+Loaded 865 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.dat (ON)
+All data loaded!
+
+Finding events in this cadence...
+Found a total of 1427 hits above the SNR cut in this cadence!
+Filter level is 1 - returning this table...
+Search time: 0.30 sec
+------   o   -------
+*** find_event_output_dataframe is complete ***
+find_event_pipeline: Saved CSV file to /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/ON_S_f1_snr10.0.csv
+
+Total time to execute this program: 42.28 seconds.
+
+ 
+numexpr.utils   INFO     Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+
+Executing program...
+
+Running find event pipeline...
+
+************   BEGINNING FIND_EVENT PIPELINE   **************
+
+Assuming a complex cadence for the following on source: OFF_HD13908
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.dat, tstart=59524.18732638889, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat, tstart=59524.191296296296, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.dat, tstart=59524.1953125, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.dat, tstart=59524.19924768519, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.dat, tstart=59524.2031712963, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.dat, tstart=59524.207083333335, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+The derived complex cadence is: [0, 1, 0, 1, 0, 1]
+There are 6 total files in the filelist /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/dat_files.lst
+therefore, looking for events in 1 on-off set(s)
+with a minimum SNR of 10.0
+Present in at least one ON source with RFI rejection from the OFF sources
+not including signals with zero drift
+saving the output files
+
+*** First DAT file in set:  spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat ***
+
+------   o   -------
+Loading data...
+Loaded 755 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.dat (OFF)
+Loaded 765 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat (ON)
+Loaded 758 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.dat (OFF)
+Loaded 757 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.dat (ON)
+Loaded 793 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.dat (OFF)
+Loaded 865 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.dat (ON)
+All data loaded!
+
+Finding events in this cadence...
+Found a total of 1427 hits above the SNR cut in this cadence!
+Found a total of 290 hits in only the on observations in this cadence!
+Filter level is 2 - returning this table...
+Search time: 1.01 sec
+------   o   -------
+*** find_event_output_dataframe is complete ***
+find_event_pipeline: Saved CSV file to /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/ON_S_f2_snr10.0.csv
+
+Total time to execute this program: 45.35 seconds.
+
+ 
+numexpr.utils   INFO     Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+
+Executing program...
+
+Running find event pipeline...
+
+************   BEGINNING FIND_EVENT PIPELINE   **************
+
+Assuming a complex cadence for the following on source: OFF_HD13908
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.dat, tstart=59524.18732638889, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat, tstart=59524.191296296296, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.dat, tstart=59524.1953125, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.dat, tstart=59524.19924768519, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.dat, tstart=59524.2031712963, source_name=ON_S, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+find_event_pipeline INFO     find_event_pipeline: file=spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.dat, tstart=59524.207083333335, source_name=OFF_HD13908, fch1=3151.46484375, foff=-2.7939677238464355e-06, nchans=536870912
+The derived complex cadence is: [0, 1, 0, 1, 0, 1]
+There are 6 total files in the filelist /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/dat_files.lst
+therefore, looking for events in 1 on-off set(s)
+with a minimum SNR of 10.0
+Present in all ON sources with RFI rejection from the OFF sources
+not including signals with zero drift
+saving the output files
+
+*** First DAT file in set:  spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat ***
+
+------   o   -------
+Loading data...
+Loaded 755 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.dat (OFF)
+Loaded 765 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.dat (ON)
+Loaded 758 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.dat (OFF)
+Loaded 757 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.dat (ON)
+Loaded 793 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.dat (OFF)
+Loaded 865 hits from /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan/spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.dat (ON)
+All data loaded!
+
+Finding events in this cadence...
+Found a total of 1427 hits above the SNR cut in this cadence!
+Found a total of 290 hits in only the on observations in this cadence!
+NOTE: Found no events across this cadence :(
+Search time: 1.08 sec
+------   o   -------
+
+*** find_event_pipeline: Sorry, no potential candidates with your given parameters :(
+
+Total time to execute this program: 43.53 seconds.
+
+ 
+Thu Jan 20 17:35:03 EST 2022
+ 
+Game over. Thanks for playing.

@@ -1,0 +1,168 @@
+Starting job S_fil2h5
+Fri Nov 26 17:13:12 EST 2021
+Job id: 32115657.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered
+ 
+Executing generic script...
+ 
+Fri Nov 26 17:13:14 EST 2021
+ 
+
+Executing program...
+
+Please wait ... 2021-11-26 17:13:17.566831
+
+Beginning fil for loop: 2021-11-26 17:13:17.566857
+
+Working on file number 1 in the list...
+
+Converting spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000 to HDF5...
+
+Executing at 2021-11-26 17:13:17.566928
+blimpy.waterfall INFO     Detecting high frequency resolution data.
+blimpy.waterfall INFO     __write_to_hdf5_heavy: For /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.h5, chunk_dim=(1, 1, 1048576), blob_dim=(2, 1, 536870912), n_blobs=8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 1 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 2 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 3 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 4 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 5 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 6 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 7 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 8 of 8
+blimpy.waterfall INFO     Conversion time: 103.18sec
+
+File complete:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.h5
+
+Trash collected and for loop iteration ended at: 2021-11-26 17:15:01.171883
+
+Beginning fil for loop: 2021-11-26 17:15:01.171937
+
+Working on file number 2 in the list...
+
+Converting spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000 to HDF5...
+
+Executing at 2021-11-26 17:15:01.172132
+blimpy.waterfall INFO     Detecting high frequency resolution data.
+blimpy.waterfall INFO     __write_to_hdf5_heavy: For /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5, chunk_dim=(1, 1, 1048576), blob_dim=(2, 1, 536870912), n_blobs=8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 1 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 2 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 3 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 4 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 5 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 6 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 7 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 8 of 8
+blimpy.waterfall INFO     Conversion time: 103.52sec
+
+File complete:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5
+
+Trash collected and for loop iteration ended at: 2021-11-26 17:16:45.143421
+
+Beginning fil for loop: 2021-11-26 17:16:45.143473
+
+Working on file number 3 in the list...
+
+Converting spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000 to HDF5...
+
+Executing at 2021-11-26 17:16:45.143650
+blimpy.waterfall INFO     Detecting high frequency resolution data.
+blimpy.waterfall INFO     __write_to_hdf5_heavy: For /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.h5, chunk_dim=(1, 1, 1048576), blob_dim=(2, 1, 536870912), n_blobs=8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 1 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 2 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 3 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 4 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 5 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 6 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 7 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 8 of 8
+blimpy.waterfall INFO     Conversion time: 105.89sec
+
+File complete:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.h5
+
+Trash collected and for loop iteration ended at: 2021-11-26 17:18:31.402535
+
+Beginning fil for loop: 2021-11-26 17:18:31.402590
+
+Working on file number 4 in the list...
+
+Converting spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000 to HDF5...
+
+Executing at 2021-11-26 17:18:31.402780
+blimpy.waterfall INFO     Detecting high frequency resolution data.
+blimpy.waterfall INFO     __write_to_hdf5_heavy: For /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5, chunk_dim=(1, 1, 1048576), blob_dim=(2, 1, 536870912), n_blobs=8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 1 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 2 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 3 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 4 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 5 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 6 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 7 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 8 of 8
+blimpy.waterfall INFO     Conversion time: 104.62sec
+
+File complete:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5
+
+Trash collected and for loop iteration ended at: 2021-11-26 17:20:16.491207
+
+Beginning fil for loop: 2021-11-26 17:20:16.491258
+
+Working on file number 5 in the list...
+
+Converting spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000 to HDF5...
+
+Executing at 2021-11-26 17:20:16.491439
+blimpy.waterfall INFO     Detecting high frequency resolution data.
+blimpy.waterfall INFO     __write_to_hdf5_heavy: For /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.h5, chunk_dim=(1, 1, 1048576), blob_dim=(2, 1, 536870912), n_blobs=8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 1 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 2 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 3 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 4 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 5 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 6 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 7 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 8 of 8
+blimpy.waterfall INFO     Conversion time: 106.43sec
+
+File complete:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.h5
+
+Trash collected and for loop iteration ended at: 2021-11-26 17:22:03.409144
+
+Beginning fil for loop: 2021-11-26 17:22:03.409195
+
+Working on file number 6 in the list...
+
+Converting spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000 to HDF5...
+
+Executing at 2021-11-26 17:22:03.409376
+blimpy.waterfall INFO     Detecting high frequency resolution data.
+blimpy.waterfall INFO     __write_to_hdf5_heavy: For /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5, chunk_dim=(1, 1, 1048576), blob_dim=(2, 1, 536870912), n_blobs=8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 1 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 2 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 3 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 4 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 5 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 6 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 7 of 8
+blimpy.waterfall INFO     __write_to_hdf5_heavy: Processing blob 8 of 8
+blimpy.waterfall INFO     Conversion time: 120.15sec
+
+File complete:
+/gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5
+
+Trash collected and for loop iteration ended at: 2021-11-26 17:24:03.955701
+
+ For loop has been exited at 2021-11-26 17:24:03.955757
+Finishing out the code...
+
+Total time to execute fil2h5.py: 10.77 minutes.
+
+ 
+Fri Nov 26 17:24:04 EST 2021
+ 
+Game over. Thanks for playing.

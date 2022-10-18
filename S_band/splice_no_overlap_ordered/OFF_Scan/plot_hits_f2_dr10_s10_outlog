@@ -1,0 +1,30 @@
+Starting job plot_S
+Thu Jan 20 17:43:21 EST 2022
+Job id: 34128069.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/S_band/splice_no_overlap_ordered/OFF_Scan
+ 
+Plotting hits...
+ 
+Thu Jan 20 17:43:24 EST 2022
+ 
+numexpr.utils   INFO     Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+
+Executing program...
+
+Running plot_event_pipeline...
+plot_event_pipeline: Opened file ON_S_f2_snr10.0.csv
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_16185_ON_S_0030.rawspec.0000.h5, tstart = 59524.18732638889, source_name = ON_S
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_16528_OFF_HD13908_0031.rawspec.0000.h5, tstart = 59524.191296296296, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_16875_ON_S_0032.rawspec.0000.h5, tstart = 59524.1953125, source_name = ON_S
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_17215_OFF_HD13908_0033.rawspec.0000.h5, tstart = 59524.19924768519, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_17554_ON_S_0034.rawspec.0000.h5, tstart = 59524.2031712963, source_name = ON_S
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_17892_OFF_HD13908_0035.rawspec.0000.h5, tstart = 59524.207083333335, source_name = OFF_HD13908
+Plotting some events for:  OFF_HD13908
+There are 290 total events in the csv file ON_S_f2_snr10.0.csv
+therefore, you are about to make 290 .png files.
+No csvs at the minimum filter_threshoold: 3 to plot. Exiting...
+ 
+Fri Jan 21 03:42:05 EST 2022
+ 
+Game over. Thanks for playing.
