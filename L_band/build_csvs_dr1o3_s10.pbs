@@ -1,0 +1,29 @@
+#!/bin/bash
+#PBS -A open
+#PBS -l nodes=1:ppn=1:stmem
+#PBS -l pmem=4gb
+#PBS -l walltime=2:00:00
+#PBS -j oe
+#PBS -M nxt5197@psu.edu
+#PBS -N csv_576_L
+#PBS -o csv_L_outlog
+
+echo "Starting job $PBS_JOBNAME"
+date
+echo "Job id: $PBS_JOBID"
+echo " "
+echo "Changing into $PBS_O_WORKDIR"
+cd $PBS_O_WORKDIR
+echo " "
+echo "Building csvs from hits in dats..."
+source /storage/home/nxt5197/work/environments/tSETI/setup
+echo " "
+python3 /storage/home/nxt5197/work/Boyajian/scripts/build_csv.py /gpfs/group/jtw13/default/gbt_2020/2021/L_band -s2 10 -n 6 -f 1
+echo " "
+python3 /storage/home/nxt5197/work/Boyajian/scripts/build_csv.py /gpfs/group/jtw13/default/gbt_2020/2021/L_band -s2 10 -n 6 -f 2
+echo " "
+python3 /storage/home/nxt5197/work/Boyajian/scripts/build_csv.py /gpfs/group/jtw13/default/gbt_2020/2021/L_band -s2 10 -n 6 -f 3
+echo " "
+date
+echo " "
+echo "Game over. Thanks for playing."

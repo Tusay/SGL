@@ -1,0 +1,43 @@
+Starting job plot_L
+Sat Nov 27 18:24:20 EST 2021
+Job id: 32144950.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered
+ 
+Executing generic script...
+ 
+Sat Nov 27 18:24:21 EST 2021
+ 
+
+Executing program...
+
+Running plot_event_pipeline...
+plot_event_pipeline: Opened file ON_L_f2_snr10.0.csv
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.fil, tstart = 59524.14275462963, source_name = ON_L
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil, tstart = 59524.14680555555, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.fil, tstart = 59524.15085648148, source_name = ON_L
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil, tstart = 59524.15489583334, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.fil, tstart = 59524.15893518519, source_name = ON_L
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil, tstart = 59524.16296296296, source_name = OFF_HD13908
+Plotting some events for:  ON_L
+There are 9929 total events in the csv file ON_L_f2_snr10.0.csv
+therefore, you are about to make 9929 .png files.
+
+Running plot_event_pipeline...
+plot_event_pipeline: Opened file ON_L_f3_snr10.0.csv
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.fil, tstart = 59524.14275462963, source_name = ON_L
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil, tstart = 59524.14680555555, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.fil, tstart = 59524.15085648148, source_name = ON_L
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil, tstart = 59524.15489583334, source_name = OFF_HD13908
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.fil, tstart = 59524.15893518519, source_name = ON_L
+plot_event_pipeline: file = spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil, tstart = 59524.16296296296, source_name = OFF_HD13908
+Plotting some events for:  ON_L
+There are 3 total events in the csv file ON_L_f3_snr10.0.csv
+therefore, you are about to make 3 .png files.
+
+Total time to execute this program: 5.13 hours.
+
+ 
+Sat Nov 27 23:32:23 EST 2021
+ 
+Game over. Thanks for playing.

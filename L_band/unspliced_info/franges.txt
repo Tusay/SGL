@@ -1,0 +1,343 @@
+
+--- New Freq Range:	2063 to 2251 MHz ---
+1:
+blc00_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	2063.96484375
+blc00_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	2251.46484375
+
+
+--- New Freq Range:	1876 to 2063 MHz ---
+1:
+blc01_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	1876.46484375
+blc01_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	2063.96484375
+
+
+--- New Freq Range:	1688 to 1876 MHz ---
+1:
+blc02_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	1688.96484375
+blc02_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	1876.46484375
+
+
+--- New Freq Range:	1501 to 1688 MHz ---
+1:
+blc03_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	1501.46484375
+blc03_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	1688.96484375
+
+
+--- New Freq Range:	1313 to 1501 MHz ---
+1:
+blc04_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	1313.96484375
+blc04_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	1501.46484375
+
+
+--- New Freq Range:	1126 to 1313 MHz ---
+1:
+blc05_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	1126.46484375
+blc05_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	1313.96484375
+
+
+--- New Freq Range:	938 to 1126 MHz ---
+1:
+blc06_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	938.96484375
+blc06_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	1126.46484375
+
+
+--- New Freq Range:	751 to 938 MHz ---
+1:
+blc07_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Minimum freq (MHz) :	751.46484375
+blc07_guppi_59524_12334_ON_L_0015.rawspec.0000.h5	Maximum freq (MHz) :	938.96484375
+
+
+--- New Freq Range:	2063 to 2251 MHz ---
+1:
+blc00_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	2063.96484375
+blc00_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	2251.46484375
+
+
+--- New Freq Range:	1876 to 2063 MHz ---
+1:
+blc01_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	1876.46484375
+blc01_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	2063.96484375
+
+
+--- New Freq Range:	1688 to 1876 MHz ---
+1:
+blc02_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	1688.96484375
+blc02_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	1876.46484375
+
+
+--- New Freq Range:	1501 to 1688 MHz ---
+1:
+blc03_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	1501.46484375
+blc03_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	1688.96484375
+
+
+--- New Freq Range:	1313 to 1501 MHz ---
+1:
+blc04_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	1313.96484375
+blc04_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	1501.46484375
+
+
+--- New Freq Range:	1126 to 1313 MHz ---
+1:
+blc05_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	1126.46484375
+blc05_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	1313.96484375
+
+
+--- New Freq Range:	938 to 1126 MHz ---
+1:
+blc06_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	938.96484375
+blc06_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	1126.46484375
+
+
+--- New Freq Range:	751 to 938 MHz ---
+1:
+blc07_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Minimum freq (MHz) :	751.46484375
+blc07_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5	Maximum freq (MHz) :	938.96484375
+
+
+--- New Freq Range:	2063 to 2251 MHz ---
+1:
+blc00_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	2063.96484375
+blc00_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	2251.46484375
+
+
+--- New Freq Range:	1876 to 2063 MHz ---
+1:
+blc01_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	1876.46484375
+blc01_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	2063.96484375
+
+
+--- New Freq Range:	1688 to 1876 MHz ---
+1:
+blc02_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	1688.96484375
+blc02_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	1876.46484375
+
+
+--- New Freq Range:	1501 to 1688 MHz ---
+1:
+blc03_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	1501.46484375
+blc03_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	1688.96484375
+
+
+--- New Freq Range:	1313 to 1501 MHz ---
+1:
+blc04_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	1313.96484375
+blc04_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	1501.46484375
+
+
+--- New Freq Range:	1126 to 1313 MHz ---
+1:
+blc05_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	1126.46484375
+blc05_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	1313.96484375
+
+
+--- New Freq Range:	938 to 1126 MHz ---
+1:
+blc06_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	938.96484375
+blc06_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	1126.46484375
+
+
+--- New Freq Range:	751 to 938 MHz ---
+1:
+blc07_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Minimum freq (MHz) :	751.46484375
+blc07_guppi_59524_13034_ON_L_0017.rawspec.0000.h5	Maximum freq (MHz) :	938.96484375
+
+
+--- New Freq Range:	2063 to 2251 MHz ---
+1:
+blc00_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	2063.96484375
+blc00_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	2251.46484375
+
+
+--- New Freq Range:	1876 to 2063 MHz ---
+1:
+blc01_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	1876.46484375
+blc01_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	2063.96484375
+
+
+--- New Freq Range:	1688 to 1876 MHz ---
+1:
+blc02_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	1688.96484375
+blc02_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	1876.46484375
+
+
+--- New Freq Range:	1501 to 1688 MHz ---
+1:
+blc03_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	1501.46484375
+blc03_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	1688.96484375
+
+
+--- New Freq Range:	1313 to 1501 MHz ---
+1:
+blc04_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	1313.96484375
+blc04_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	1501.46484375
+
+
+--- New Freq Range:	1126 to 1313 MHz ---
+1:
+blc05_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	1126.46484375
+blc05_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	1313.96484375
+
+
+--- New Freq Range:	938 to 1126 MHz ---
+1:
+blc06_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	938.96484375
+blc06_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	1126.46484375
+
+
+--- New Freq Range:	751 to 938 MHz ---
+1:
+blc07_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Minimum freq (MHz) :	751.46484375
+blc07_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5	Maximum freq (MHz) :	938.96484375
+
+
+--- New Freq Range:	2063 to 2251 MHz ---
+1:
+blc00_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	2063.96484375
+blc00_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	2251.46484375
+
+
+--- New Freq Range:	1876 to 2063 MHz ---
+1:
+blc01_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	1876.46484375
+blc01_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	2063.96484375
+
+
+--- New Freq Range:	1688 to 1876 MHz ---
+1:
+blc02_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	1688.96484375
+blc02_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	1876.46484375
+
+
+--- New Freq Range:	1501 to 1688 MHz ---
+1:
+blc03_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	1501.46484375
+blc03_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	1688.96484375
+
+
+--- New Freq Range:	1313 to 1501 MHz ---
+1:
+blc04_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	1313.96484375
+blc04_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	1501.46484375
+
+
+--- New Freq Range:	1126 to 1313 MHz ---
+1:
+blc05_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	1126.46484375
+blc05_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	1313.96484375
+
+
+--- New Freq Range:	938 to 1126 MHz ---
+1:
+blc06_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	938.96484375
+blc06_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	1126.46484375
+
+
+--- New Freq Range:	751 to 938 MHz ---
+1:
+blc07_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Minimum freq (MHz) :	751.46484375
+blc07_guppi_59524_13732_ON_L_0019.rawspec.0000.h5	Maximum freq (MHz) :	938.96484375
+
+
+--- New Freq Range:	2063 to 2251 MHz ---
+1:
+blc00_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	2063.96484375
+blc00_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	2251.46484375
+
+
+--- New Freq Range:	1876 to 2063 MHz ---
+1:
+blc01_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	1876.46484375
+blc01_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	2063.96484375
+
+
+--- New Freq Range:	1688 to 1876 MHz ---
+1:
+blc02_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	1688.96484375
+blc02_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	1876.46484375
+
+
+--- New Freq Range:	1501 to 1688 MHz ---
+1:
+blc03_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	1501.46484375
+blc03_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	1688.96484375
+
+
+--- New Freq Range:	1313 to 1501 MHz ---
+1:
+blc04_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	1313.96484375
+blc04_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	1501.46484375
+
+
+--- New Freq Range:	1126 to 1313 MHz ---
+1:
+blc05_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	1126.46484375
+blc05_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	1313.96484375
+
+
+--- New Freq Range:	938 to 1126 MHz ---
+1:
+blc06_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	938.96484375
+blc06_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	1126.46484375
+
+
+--- New Freq Range:	751 to 938 MHz ---
+1:
+blc07_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Minimum freq (MHz) :	751.46484375
+blc07_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5	Maximum freq (MHz) :	938.96484375
+
+---Total Frequency Ranges: 48
+f_start (MHz)	f_stop (MHz)	Num_Scans	BLC Node	MJD Start	Targets
+	2064			2251			1			00		5952412334		['ON_L']
+	1876			2064			1			01		5952412334		['ON_L']
+	1689			1876			1			02		5952412334		['ON_L']
+	1501			1689			1			03		5952412334		['ON_L']
+	1314			1501			1			04		5952412334		['ON_L']
+	1126			1314			1			05		5952412334		['ON_L']
+	939			1126			1			06		5952412334		['ON_L']
+	751			939			1			07		5952412334		['ON_L']
+
+	2064			2251			1			00		5952412684		['OFF_HD13908']
+	1876			2064			1			01		5952412684		['OFF_HD13908']
+	1689			1876			1			02		5952412684		['OFF_HD13908']
+	1501			1689			1			03		5952412684		['OFF_HD13908']
+	1314			1501			1			04		5952412684		['OFF_HD13908']
+	1126			1314			1			05		5952412684		['OFF_HD13908']
+	939			1126			1			06		5952412684		['OFF_HD13908']
+	751			939			1			07		5952412684		['OFF_HD13908']
+
+	2064			2251			1			00		5952413034		['ON_L']
+	1876			2064			1			01		5952413034		['ON_L']
+	1689			1876			1			02		5952413034		['ON_L']
+	1501			1689			1			03		5952413034		['ON_L']
+	1314			1501			1			04		5952413034		['ON_L']
+	1126			1314			1			05		5952413034		['ON_L']
+	939			1126			1			06		5952413034		['ON_L']
+	751			939			1			07		5952413034		['ON_L']
+
+	2064			2251			1			00		5952413383		['OFF_HD13908']
+	1876			2064			1			01		5952413383		['OFF_HD13908']
+	1689			1876			1			02		5952413383		['OFF_HD13908']
+	1501			1689			1			03		5952413383		['OFF_HD13908']
+	1314			1501			1			04		5952413383		['OFF_HD13908']
+	1126			1314			1			05		5952413383		['OFF_HD13908']
+	939			1126			1			06		5952413383		['OFF_HD13908']
+	751			939			1			07		5952413383		['OFF_HD13908']
+
+	2064			2251			1			00		5952413732		['ON_L']
+	1876			2064			1			01		5952413732		['ON_L']
+	1689			1876			1			02		5952413732		['ON_L']
+	1501			1689			1			03		5952413732		['ON_L']
+	1314			1501			1			04		5952413732		['ON_L']
+	1126			1314			1			05		5952413732		['ON_L']
+	939			1126			1			06		5952413732		['ON_L']
+	751			939			1			07		5952413732		['ON_L']
+
+	2064			2251			1			00		5952414080		['OFF_HD13908']
+	1876			2064			1			01		5952414080		['OFF_HD13908']
+	1689			1876			1			02		5952414080		['OFF_HD13908']
+	1501			1689			1			03		5952414080		['OFF_HD13908']
+	1314			1501			1			04		5952414080		['OFF_HD13908']
+	1126			1314			1			05		5952414080		['OFF_HD13908']
+	939			1126			1			06		5952414080		['OFF_HD13908']
+	751			939			4			07		5952414080		['OFF_HD13908']

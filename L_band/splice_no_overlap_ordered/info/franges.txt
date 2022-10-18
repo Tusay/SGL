@@ -1,0 +1,29 @@
+
+--- New Freq Range:	751 to 2251 MHz ---
+1:
+spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.fil	Minimum freq (MHz) :	751.46484375
+spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.fil	Maximum freq (MHz) :	2251.46484375
+
+2:
+spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil	Minimum freq (MHz) :	751.46484375
+spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil	Maximum freq (MHz) :	2251.46484375
+
+3:
+spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.fil	Minimum freq (MHz) :	751.46484375
+spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.fil	Maximum freq (MHz) :	2251.46484375
+
+4:
+spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil	Minimum freq (MHz) :	751.46484375
+spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil	Maximum freq (MHz) :	2251.46484375
+
+5:
+spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.fil	Minimum freq (MHz) :	751.46484375
+spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.fil	Maximum freq (MHz) :	2251.46484375
+
+6:
+spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil	Minimum freq (MHz) :	751.46484375
+spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil	Maximum freq (MHz) :	2251.46484375
+
+---Total Frequency Ranges: 1
+f_start (MHz)	f_stop (MHz)	Num_Scans	BLC Node	MJD Start	Targets
+	751			2251			4			2x		5952412334		['OFF_HD13908', 'ON_L']

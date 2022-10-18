@@ -1,0 +1,349 @@
+Starting job splice_576_L
+Thu Nov 25 20:00:49 EST 2021
+Job id: 32108386.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/L_band
+ 
+Splicing together filterbank files...
+ 
+
+Executing info.py program...
+
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/unspliced_info/drift_rates.txt has been detected and purged to make way for the new list of drift rates.
+
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/unspliced_info/info.txt has been detected and purged to make way for the new header info file.
+
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/unspliced_info/franges.txt has been detected and purged to make way for the new list of frequency ranges.
+
+Please wait ...
+
+Working on file 1: blc00_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 2: blc01_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 3: blc02_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 4: blc03_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 5: blc04_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 6: blc05_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 7: blc06_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 8: blc07_guppi_59524_12334_ON_L_0015.rawspec.0000.h5
+
+
+Working on file 9: blc00_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 10: blc01_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 11: blc02_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 12: blc03_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 13: blc04_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 14: blc05_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 15: blc06_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 16: blc07_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5
+
+
+Working on file 17: blc00_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 18: blc01_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 19: blc02_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 20: blc03_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 21: blc04_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 22: blc05_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 23: blc06_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 24: blc07_guppi_59524_13034_ON_L_0017.rawspec.0000.h5
+
+
+Working on file 25: blc00_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 26: blc01_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 27: blc02_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 28: blc03_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 29: blc04_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 30: blc05_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 31: blc06_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 32: blc07_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5
+
+
+Working on file 33: blc00_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 34: blc01_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 35: blc02_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 36: blc03_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 37: blc04_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 38: blc05_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 39: blc06_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 40: blc07_guppi_59524_13732_ON_L_0019.rawspec.0000.h5
+
+
+Working on file 41: blc00_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+Working on file 42: blc01_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+Working on file 43: blc02_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+Working on file 44: blc03_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+Working on file 45: blc04_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+Working on file 46: blc05_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+Working on file 47: blc06_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+Working on file 48: blc07_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5
+
+
+
+3 new text files created:
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/unspliced_info/info.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/unspliced_info/franges.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/unspliced_info/drift_rates.txt
+
+0 files were skipped out of 48 total in the file list.
+
+
+Total time to execute info.py: 19.90 minutes.
+
+ 
+Thu Nov 25 20:20:52 EST 2021
+ 
+ 
+
+	Please wait while fil files are created...
+
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc00_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 2.73sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc00_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 2.73sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc00_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 2.69sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc00_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.46sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc00_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.60sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc00_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.90sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc01_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.20sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc01_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.71sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc01_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.98sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc01_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.71sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc01_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.70sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc01_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.56sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc02_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.61sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc02_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.61sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc02_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.60sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc02_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.86sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc02_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.45sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc02_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.78sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc03_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.75sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc03_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.74sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc03_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.69sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc03_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.76sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc03_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.73sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc03_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.74sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc04_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.75sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc04_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.76sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc04_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.75sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc04_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.74sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc04_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.73sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc04_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.71sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc05_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.74sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc05_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.77sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc05_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.49sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc05_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.53sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc05_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.52sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc05_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.62sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc06_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.62sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc06_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.59sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc06_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.57sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc06_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 3.64sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc06_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.67sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc06_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.79sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc07_guppi_59524_12334_ON_L_0015.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.78sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc07_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.76sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc07_guppi_59524_13034_ON_L_0017.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.82sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc07_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.76sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc07_guppi_59524_13732_ON_L_0019.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.68sec
+blimpy.waterfall INFO     __write_to_fil_light: Writing the spectra matrix for /gpfs/group/jtw13/default/gbt_2020/2021/L_band/blc07_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil in one go.
+blimpy.waterfall INFO     Conversion time: 1.65sec
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+nbytes per spectra: 268435456
+
+	48 h5 files converted to fils in 11.42 minutes.
+
+
+Creating new list of frequency ranges ordered by frequency.
+
+Working on files with 123?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.fil
+Working on files with 126?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil
+Working on files with 130?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.fil
+Working on files with 133?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil
+Working on files with 137?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.fil
+Working on files with 140?? seconds timestamp.
+Filterbank files spliced to: spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil
+
+
+1 new text file created: /gpfs/group/jtw13/default/gbt_2020/2021/L_band//splice_no_overlap_ordered/info/fordered_no_overlap.txt
+
+
+Total time to execute all splices: 15.47 minutes.
+
+ 
+Thu Nov 25 20:36:26 EST 2021
+ 
+
+Executing info.py program...
+
+Please wait ...
+
+Working on file 1: spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.fil
+
+
+Working on file 2: spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.fil
+
+
+Working on file 3: spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.fil
+
+
+Working on file 4: spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.fil
+
+
+Working on file 5: spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.fil
+
+
+Working on file 6: spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.fil
+
+
+
+3 new text files created:
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/info/info.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/info/franges.txt
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/info/drift_rates.txt
+
+0 files were skipped out of 6 total in the file list.
+
+
+Total time to execute info.py: 5.92 minutes.
+
+ 
+Thu Nov 25 20:42:26 EST 2021
+ 
+Game over. Thanks for playing.
