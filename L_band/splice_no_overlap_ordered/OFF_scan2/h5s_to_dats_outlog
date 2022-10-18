@@ -1,0 +1,103 @@
+Starting job h5s2dats_L
+Sat Mar  5 23:32:48 EST 2022
+Job id: 35055007.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan2
+ 
+Analyzing .h5 files for hits...
+ 
+numexpr.utils   INFO     Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+
+Executing program...
+/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan2/h5_files.lst has been detected and purged to make way for the new list of '.h5' files.
+
+Working on file number 1 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.124
+Using a drift rate range between 0.000 and 9.997.
+
+
+Working on file number 2 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.110
+Using a drift rate range between 0.000 and 9.997.
+
+
+Working on file number 3 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.125
+Using a drift rate range between 0.000 and 9.997.
+
+
+Working on file number 4 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.110
+Using a drift rate range between 0.000 and 9.997.
+
+
+Working on file number 5 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.127
+Using a drift rate range between 0.000 and 9.997.
+
+
+Working on file number 6 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.111
+Using a drift rate range between 0.000 and 9.997.
+
+
+Beginning h5 for loop: 2022-03-05 23:38:55.548426
+
+Complete spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.dat file already exists. Moving on...
+
+Complete spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.dat file already exists. Moving on...
+
+Complete spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.dat file already exists. Moving on...
+
+Complete spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.dat file already exists. Moving on...
+
+Complete spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.dat file already exists. Moving on...
+
+Calling FindDoppler at 2022-03-05 23:38:55.694439
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 2251.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'OFF_HD13908', 'src_dej': <Angle 65.5934 deg>, 'src_raj': <Angle 2.30403333 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.16296296296, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan2/spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5, max_drift=9.997, min_drift=0.0, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan2/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 4.67 hours.
+
+
+
+For loop has been exited at 2022-03-06 04:19:28.264960
+Finishing out the code...
+
+Barycentric drift rate range for these files: 0.110 and 0.127 Hz/s.
+
+Searched drift rate range for these files: 0.000 and 9.997 Hz/s.
+
+Total time to execute this program: 4.77 hours.
+
+ 
+Sun Mar  6 04:19:28 EST 2022
+ 
+Game over. Thanks for playing.
