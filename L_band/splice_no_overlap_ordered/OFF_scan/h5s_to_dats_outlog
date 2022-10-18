@@ -1,0 +1,177 @@
+Starting job h5s2dats_L
+Mon Jan 17 11:25:26 EST 2022
+Job id: 33976559.torque01.util.production.int.aci.ics.psu.edu
+ 
+Changing into /gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan
+ 
+Analyzing .h5 files for hits...
+ 
+numexpr.utils   INFO     Note: NumExpr detected 20 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+
+Executing program...
+
+Working on file number 1 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.124
+Using a drift rate range between 0.000 and 22.515.
+
+
+Working on file number 2 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.110
+Using a drift rate range between 0.000 and 22.515.
+
+
+Working on file number 3 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.125
+Using a drift rate range between 0.000 and 22.515.
+
+
+Working on file number 4 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.110
+Using a drift rate range between 0.000 and 22.515.
+
+
+Working on file number 5 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.127
+Using a drift rate range between 0.000 and 22.515.
+
+
+Working on file number 6 in the list...
+
+Getting max drift rate based on target coordinates...
+
+Barycentric drift rate is 0.111
+Using a drift rate range between 0.000 and 22.515.
+
+
+Beginning h5 for loop: 2022-01-17 11:59:01.596011
+
+Calling FindDoppler at 2022-01-17 11:59:01.597729
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 2251.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'ON_L', 'src_dej': <Angle 60.8686 deg>, 'src_raj': <Angle 2.65646667 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.14275462963, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/spliced_blc0x1x2x_guppi_59524_12334_ON_L_0015.rawspec.0000.h5, max_drift=22.515, min_drift=0.0, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 7.70 hours.
+
+
+
+Calling FindDoppler at 2022-01-17 19:41:27.058003
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 2251.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'OFF_HD13908', 'src_dej': <Angle 65.5933 deg>, 'src_raj': <Angle 2.30402 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.14680555555, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/spliced_blc0x1x2x_guppi_59524_12684_OFF_HD13908_0016.rawspec.0000.h5, max_drift=22.515, min_drift=0.0, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 7.46 hours.
+
+
+
+Calling FindDoppler at 2022-01-18 03:09:17.716183
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 2251.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'ON_L', 'src_dej': <Angle 60.8682 deg>, 'src_raj': <Angle 2.65643333 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.15085648148, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/spliced_blc0x1x2x_guppi_59524_13034_ON_L_0017.rawspec.0000.h5, max_drift=22.515, min_drift=0.0, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 7.87 hours.
+
+
+
+Calling FindDoppler at 2022-01-18 11:01:54.897214
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 2251.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'OFF_HD13908', 'src_dej': <Angle 65.5937 deg>, 'src_raj': <Angle 2.304 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.15489583334, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/spliced_blc0x1x2x_guppi_59524_13383_OFF_HD13908_0018.rawspec.0000.h5, max_drift=22.515, min_drift=0.0, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 8.06 hours.
+
+
+
+Calling FindDoppler at 2022-01-18 19:05:58.981483
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 2251.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'ON_L', 'src_dej': <Angle 60.8685 deg>, 'src_raj': <Angle 2.65646667 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.15893518519, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/spliced_blc0x1x2x_guppi_59524_13732_ON_L_0019.rawspec.0000.h5, max_drift=22.515, min_drift=0.0, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 6.04 hours.
+
+
+
+Calling FindDoppler at 2022-01-19 01:08:37.645499
+
+turbo_seti version 2.1.17
+blimpy version 2.0.31
+h5py version 3.5.0
+
+HDF5 header info: {'DIMENSION_LABELS': array(['time', 'feed_id', 'frequency'], dtype=object), 'az_start': 0.0, 'data_type': 1, 'fch1': 2251.46484375, 'foff': -2.7939677238464355e-06, 'machine_id': 20, 'nbits': 32, 'nchans': 536870912, 'nifs': 1, 'source_name': 'OFF_HD13908', 'src_dej': <Angle 65.5934 deg>, 'src_raj': <Angle 2.30403333 hourangle>, 'telescope_id': 6, 'tsamp': 18.253611007999982, 'tstart': 59524.16296296296, 'za_start': 0.0}
+
+Starting ET search with parameters: datafile=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/spliced_blc0x1x2x_guppi_59524_14080_OFF_HD13908_0020.rawspec.0000.h5, max_drift=22.515, min_drift=0.0, snr=10.0, out_dir=/gpfs/group/jtw13/default/gbt_2020/2021/L_band/splice_no_overlap_ordered/OFF_scan/, coarse_chans=None, flagging=False, n_coarse_chan=512, kernels=None, gpu_id=0, gpu_backend=False, blank_dc=True, precision=1, append_output=False, log_level_int=30, obs_info={'pulsar': 0, 'pulsar_found': 0, 'pulsar_dm': 0.0, 'pulsar_snr': 0.0, 'pulsar_stats': array([0., 0., 0., 0., 0., 0.]), 'RFI_level': 0.0, 'Mean_SEFD': 0.0, 'psrflux_Sens': 0.0, 'SEFDs_val': [0.0], 'SEFDs_freq': [0.0], 'SEFDs_freq_up': [0.0]}
+
+Computed drift rate resolution: 0.00956648975722505
+
+
+find_doppler.py populated the corresponding .dat file with hits in 8.19 hours.
+
+
+
+For loop has been exited at 2022-01-19 09:20:13.271228
+Finishing out the code...
+
+Barycentric drift rate range for these files: 0.110 and 0.127 Hz/s.
+
+Searched drift rate range for these files: 0.000 and 22.515 Hz/s.
+
+Total time to execute this program: 45.90 hours.
+
+ 
+Wed Jan 19 09:20:13 EST 2022
+ 
+Game over. Thanks for playing.
